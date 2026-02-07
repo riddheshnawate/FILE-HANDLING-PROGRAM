@@ -27,5 +27,6 @@ This task provided valuable hands-on experience in file handling using C program
 ---
 
 ## OUTPUT
-
+<img width="1638" height="363" alt="Image" src="https://github.com/user-attachments/assets/3de25d87-b0b7-47da-a3a4-b8388d7306d1" />
+<img width="1649" height="177" alt="Image" src="https://github.com/user-attachments/assets/2c192fd4-f8b4-47f8-86de-edb09934f81b" />
 
